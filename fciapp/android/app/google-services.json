@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758067070321",
+    "firebase_url": "https://fciapp-2fe23.firebaseio.com",
+    "project_id": "fciapp-2fe23",
+    "storage_bucket": "fciapp-2fe23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758067070321:android:5b4b08d024aa08f9e522d0",
+        "android_client_info": {
+          "package_name": "com.example.fciapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758067070321-s10fpum7id3eamdhli4shbp4aqq1jmki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1N017FZWj-k4NEee6ouXhddcX99pBcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758067070321-s10fpum7id3eamdhli4shbp4aqq1jmki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
